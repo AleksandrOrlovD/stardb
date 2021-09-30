@@ -1,4 +1,4 @@
-#StarDB
+# #StarDB
 ---
 An application for viewing characters and other elements of Star Wars universe.
 ---
